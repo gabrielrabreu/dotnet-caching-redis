@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B0475E94-71D8-40E7-85D6-F522C1DA98FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCR.WebApi", "src\DCR.WebApi\DCR.WebApi.csproj", "{FE236B61-C33A-4DEC-8E60-30734D5CC90B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE236B61-C33A-4DEC-8E60-30734D5CC90B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE236B61-C33A-4DEC-8E60-30734D5CC90B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE236B61-C33A-4DEC-8E60-30734D5CC90B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE236B61-C33A-4DEC-8E60-30734D5CC90B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FE236B61-C33A-4DEC-8E60-30734D5CC90B} = {B0475E94-71D8-40E7-85D6-F522C1DA98FE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CFAE446-B066-4BC9-B858-53762F854A83}
+	EndGlobalSection
+EndGlobal
